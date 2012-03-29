@@ -33,4 +33,4 @@ Animate with options:
 ```
 
 ## License
-animInt is published under the "Don't be a dick" license by Phil Sturgeon
+animInt is published under the "Don't be a dick" license by Phil Sturgeon.
