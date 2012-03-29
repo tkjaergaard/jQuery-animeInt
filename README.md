@@ -15,22 +15,22 @@ The plugin will perform a "coundown"-like effect from a number within an element
 jQuery is required.
 
 Animate with defaults:
-```javascript
-;(function($){
-	$('div').animInt();
-})(jQuery);
-```
+`
+	;(function($){	
+		$('div').animInt();	
+	})(jQuery);	
+`
 
 Animate with options:
-```javascript
-;(function($){
-	$('div').animInt({
-		end: 20,
-		speed: 800,
-		fps: 25
-	});
-})(jQuery);
-```
+`
+	;(function($){	
+		$('div').animInt({	
+			end: 20,	
+			speed: 800,	
+			fps: 25	
+		});
+	})(jQuery);
+`
 
 ## License
 animInt is published under the "Don't be a dick" license by Phil Sturgeon.
